@@ -128,7 +128,8 @@
 <br>
 
 # ✔️ 물리 모델링
-![image](https://github.com/user-attachments/assets/edcdf2be-23de-42fb-944f-0555fd8bd0c3)
+![물리모델링](https://github.com/user-attachments/assets/a4f2ea7f-a0e4-4f66-bffa-f969dc324dd2)
+
 
 
 <br>
