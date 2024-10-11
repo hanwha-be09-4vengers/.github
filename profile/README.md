@@ -120,7 +120,8 @@
 <br>
 
 # ✔️ 논리 모델링
-![image](https://github.com/user-attachments/assets/dd244d81-6ebf-4086-8623-b664a2104215)
+![논리모델링](https://github.com/user-attachments/assets/b18d9be2-3b3a-456f-9795-2454b27e817a)
+
 
 
 ---
