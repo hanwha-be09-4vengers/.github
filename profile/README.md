@@ -121,7 +121,9 @@
 <br>
 
 # ✔️ 논리 모델링
-![논리모델링](https://github.com/user-attachments/assets/06f74533-ea42-4fbd-bce1-bd328cf93f85)
+![논리모델링](https://github.com/user-attachments/assets/864d0631-2231-46aa-82c5-78cbe1c49cf9)
+
+
 
 ---
 <br>
