@@ -121,16 +121,13 @@
 <br>
 
 # ✔️ 논리 모델링
-![논리모델링](https://github.com/user-attachments/assets/864d0631-2231-46aa-82c5-78cbe1c49cf9)
-
-
+![논리모델링](https://github.com/user-attachments/assets/ff9a5d28-283a-4476-8ac9-84fce1dbcabe)
 
 ---
 <br>
 
 # ✔️ 물리 모델링
-![물리모델링](https://github.com/user-attachments/assets/5859bc10-7719-475b-a46c-9fc8e1e98e4c))
-
+![물리모델링](https://github.com/user-attachments/assets/d1357e01-c809-4676-a6c8-2aa43c0f4057)
 
 
 <br>
