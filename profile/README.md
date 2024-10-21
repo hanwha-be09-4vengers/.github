@@ -148,6 +148,8 @@
 ![물리모델링](https://github.com/user-attachments/assets/c04e7d8c-dc5f-4593-aab6-30b65c17e564)
 
 # ✔️ JenkinsScript
+
+[Jenkins 백엔드 CI/CD 적용 주소](https://github.com/hanwha-be09-4vengers/Yoribogo-Server)
 ```groovy
 pipeline {
     agent any
