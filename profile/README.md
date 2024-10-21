@@ -215,20 +215,31 @@
 </details>
 
 <details>
-  <summary>1.4 카카오 로그인</summary>
-   <img src="https://github.com/user-attachments/assets/10681f95-3116-45d0-ae4b-1666a07d3c0c" alt="">
+  <summary>2.4 요리 위키 상세정보</summary>
+   <img src="https://github.com/user-attachments/assets/41fc845d-9a42-4ed0-8dbd-d169c953ab27" alt="">
+</details>
+
+<h2>3. 요리보고의 추천</h2> 
+
+<details>
+  <summary>3.1 요리 추천</summary>
+  <img src="https://github.com/user-attachments/assets/387f03ec-1404-465d-af07-12b90073b25b" alt="">
 </details>
 
 <details>
-  <summary>1.5 네이버 로그인</summary>
-   
+   <summary>3.2 요리 이미지 생성 비동기 처리</summary>
+   <img src="https://github.com/user-attachments/assets/dd9bccdd-0a14-4220-9e1e-856476d6edb7" alt="">
 </details>
 
 <details>
-  <summary>1.6 로그아웃</summary>
-   <img src="https://github.com/user-attachments/assets/400373f2-7f70-4556-81c9-bfa2bbb26c5b" alt="">
+  <summary>3.3 요리 추천에 만족한 경우</summary>
+   <img src="https://github.com/user-attachments/assets/7d8af233-fbd8-4652-bb7a-9c425f0a429b" alt="">
 </details>
 
+<details>
+  <summary>3.4 요리 추천에 불만족한 경우</summary>
+   <img src="https://github.com/user-attachments/assets/5a2f5215-a177-4b86-ae16-d10c01d9ae62" alt="">
+</details>
 
 <br>
 
