@@ -287,7 +287,12 @@
 
 <details>
   <summary>5.6 문의 조회</summary>
+  <br>
+  5.6.1 비밀글일 때 작성자이거나 관리자일 경우 or 비밀글이 아닐 경우
   <img src="https://github.com/user-attachments/assets/b03e68cc-8eeb-4b1f-bb28-a5161f17bf01" alt="">
+  <br><br>
+  5.6.2 비밀글일 때 작성자나 관리자가 아닐 경우
+  <img src="https://github.com/user-attachments/assets/0b944dca-f6bf-40ce-830d-e04b2d7a33a7" alt="">
 </details>
 
 <details>
