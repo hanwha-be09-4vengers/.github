@@ -26,19 +26,25 @@
 | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?&logo=spring-security&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-F60055.svg?&logo=json-web-token&logoColor=white) | ![Kakao Login](https://img.shields.io/badge/Kakao_Login-FFCD00.svg?&logo=kakao&logoColor=black)   | ![Naver Login](https://img.shields.io/badge/Naver_Login-03C75A.svg?&logo=naver&logoColor=white)   |
 
-### 3. Frontend <a id="3-frontend"></a>
+### 3. Database <a id="3-database"></a>
+
+| MariaDB                                                                                                   | MongoDB                                                                                    | Redis                                                                                    | Amazon S3 |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&logo=mariadb&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&logo=mongodb&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&logo=redis&logoColor=white)   | ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?&logo=amazons3&logoColor=white)   |
+
+### 4. Frontend <a id="4-frontend"></a>
 
 | Vue 3                                                                                     | JavaScript                                                                                      | HTML                                                                                            | CSS                                                                                            |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D.svg?&logo=vue.js&logoColor=white)       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)                     | ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)                     |
 
-### 4. DevOps <a id="4-devops"></a>
+### 5. DevOps <a id="5-devops"></a>
 
 | Docker                                                                                    | Kubernetes                                                                                      | Jenkins                                                                                            |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white)       | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&logo=kubernetes&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)                     |
 
-### 5. Tool <a id="5-tool"></a>
+### 6. Tool <a id="6-tool"></a>
 
 | GitHub                                                                                          | DA#                                                                                              | IntelliJ IDEA                                                                                          | Visual Studio Code                                                                                  |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
