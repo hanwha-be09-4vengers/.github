@@ -123,8 +123,10 @@
 <br>
 
 # WBS
+![wbs_devops](https://github.com/user-attachments/assets/fef4e791-da7c-476c-bbac-47bf082c9849)
 
-
+---
+<br>
 
 # ✔️ 개념 모델링
 ![image](https://github.com/user-attachments/assets/7d9fa206-fdac-4a4b-b707-ba8545c19475)
