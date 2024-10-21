@@ -143,11 +143,95 @@
 # ✔️ 물리 모델링
 ![물리모델링](https://github.com/user-attachments/assets/c04e7d8c-dc5f-4593-aab6-30b65c17e564)
 
+# ✔️ JenkinsScript
+pipeline {
+    agent any
+
+    tools {
+        gradle 'gradle'
+        jdk 'openJDK17'
+    }
+
+    environment {
+        DOCKERHUB_CREDENTIALS = credentials('DOCKERHUB_PASSWORD')
+        DOCKERHUB_USERNAME = 'chochanguk'
+        GITHUB_URL = 'https://github.com/hanwha-be09-4vengers/Yoribogo-Server.git'
+    }
+
+    stages {
+        stage('Preparation') {
+            steps {
+                script {
+                    if (isUnix()) {
+                        sh 'docker --version'
+                    } else {
+                        bat 'docker --version'
+                    }
+                }
+            }
+        }
+        stage('Source Build') {
+            steps {
+                git branch: 'main', url: "${env.GITHUB_URL}"
+                script {
+                    if (isUnix()) {
+                        sh "chmod +x ./gradlew"
+                        sh "./gradlew clean build"
+                    } else {
+                        bat "gradlew.bat clean build"
+                    }
+                }
+            }
+        }
+        stage('Container Build and Push') {
+            steps {    
+                script {
+                    withCredentials([usernamePassword(credentialsId: 'DOCKERHUB_PASSWORD', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                        if (isUnix()) {
+                            sh "cp ./build/libs/*.jar ."
+                            sh "docker build -t ${DOCKERHUB_USERNAME}/yoribogo-pipe:latest ."
+                            sh "docker login -u ${DOCKER_USER} -p ${DOCKER_PASS}"
+                            sh "docker push ${DOCKERHUB_USERNAME}/yoribogo-pipe:latest"
+                        } else {
+                            bat "copy .\\build\\libs\\*.jar ."
+                            bat "docker build -t ${DOCKERHUB_USERNAME}/yoribogo-pipe:latest ."
+                            bat "docker login -u %DOCKER_USER% -p %DOCKER_PASS%"
+                            bat "docker push ${DOCKERHUB_USERNAME}/yoribogo-pipe:latest"
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            script {
+                if (isUnix()) {
+                    sh 'docker logout'
+                } else {
+                    bat 'docker logout'
+                }
+            }
+        }
+        success {
+            echo 'Pipeline succeeded!'
+        }
+        failure {
+            echo 'Pipeline failed!'
+        }
+    }
+}
+1
 
 <br>
 
 # ✔️ 결과 화면
 
+<h2>0. Jenkins CI/CD </h2>
+  <details>
+    ![image](https://github.com/user-attachments/assets/42a66e5d-66a0-42e1-89d1-e9b048d548f5)
+  </details>
 <h2>1. 회원</h2> 
 
 <details>
@@ -350,11 +434,13 @@
 
 | Team Member | 조창욱 동료평가                                                                                                                                                                                                                       |
 | :---------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   박경희    | |
-|   윤채연    | |
-|   전기범    | |
-|   장민근    | |
-|   최해관    | |
+|   박경희    | 경희님께서는 제가 시킨 업무는 반드시 하셨고, 프로젝트 진행 중에 크리티컬 이슈 발생시 빠르고, 정확하게 말씀하셔서 덕분에 프로젝트를 진행할 수 있었던 것 같습니다. 정말 감사합니다. |
+|   윤채연    | 채연님은 저희 팀에서 피그마를 통한 디자인을 담당하셨습니다. 전공지식인 UI/UX를 살리셔서 디자인을 꼼꼼하게 만드셨고, 덕분에 프로젝트 개발이 빨랐습니다. 자신이 맡은 파트를 반드시 하고자 하는 의자가 강하셨고, 책임감이 강한 동료라는 인식을 크게 받았습니다. 덕분에 프로젝트 잘 마무리 했습니다. 감사합니다.  |
+|   전기범    | 저희 서비스의 메인 기능인 Gpt API와 공공데이터를 이용한 메뉴 레시피 추천 로직을 담당하셨습니다. 공공데이터는 직접 데이터를 파싱하시고, 이를 db저장함으로써 개발의 효율성을 극대화 하셨습니다. 이 뿐만 이라 ai 추천 서비스 로직에서 프롬프트 가이드라인을 지켜서 서비스 오류를 방지하셨습니다. 저희 팀에서 필요한 코드들을 솔선수범하여 코드릉 짜시고 어려움을 겪는 팀원들을 위해 열심히 일하셨습니다. 정말 감사합니다. |
+|   장민근    | 민근님은 처음하시는 sse연결을 맡으셨는데 처음하시는데도 불구하고, 맡은 업무에 대해 끝까지 파고들며, 잘 안되는 부분도 개발자 포럼 사이트를 참고하며 꼼꼼하게 개발하셨습니다. 덕분에 저희 기능중에 ㅇ가장 어려운 알림기능을 성공적으로 수행할 수 있었습니다. 감사합니다. |
+|   최해관    | 해관님께서는 제가 시킨 업무인 공공데이터 조사와 공공데이터 파싱을 파이썬 스크립트로 짜셔서 덕분에 기범님이 공공데이터를 db에 잘 저장할 수 있었습니다. 그 외에도 프로젝트의 핵심 주제 아이디어나 기타 신박한 아이디어를 제시하셔서 프로젝트의 길을 틀 수 있었습니다. 정말 감사합니다. |
+
+
 
 | Team Member | 최해관 동료평가                                                                                                                                                                                                                       |
 | :---------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
