@@ -149,7 +149,7 @@
 
 # ✔️ JenkinsScript
 
-[Jenkins 백엔드 CI/CD 적용 주소](https://github.com/hanwha-be09-4vengers/Yoribogo-Server)
+[Jenkins 백엔드 CI/CD 깃허브](https://github.com/hanwha-be09-4vengers/Yoribogo-Server)
 ```groovy
 pipeline {
     agent any
