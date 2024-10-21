@@ -123,7 +123,7 @@
 <br>
 
 # WBS
-![wbs_devops](https://github.com/user-attachments/assets/fef4e791-da7c-476c-bbac-47bf082c9849)
+![wbs_devops](https://github.com/user-attachments/assets/57e8bd29-a323-4c89-986b-5d76fc694f07)
 
 ---
 <br>
