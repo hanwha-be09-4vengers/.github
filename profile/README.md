@@ -1,4 +1,4 @@
-# Yoribogo
+![image](https://github.com/user-attachments/assets/31be6d5f-6172-4a37-9a5a-77d71186bccb)![image](https://github.com/user-attachments/assets/63c360b5-d578-45c6-985d-4ec944ef02a5)# Yoribogo
 
 ## Team-4vengers
 
@@ -126,8 +126,53 @@
 # ✔️ WBS
 ![wbs_devops](https://github.com/user-attachments/assets/57e8bd29-a323-4c89-986b-5d76fc694f07)
 
-# ✔️ UI설계 
+# ✔️ 시스템 아키텍쳐
 ![image](https://github.com/user-attachments/assets/0fae1883-04a2-4243-bdba-f129682f936d)
+
+
+# ✔️ UI설계
+
+<details>
+  <summary>질문 1</summary>
+
+  ![질문 1](https://github.com/user-attachments/assets/ff026a5e-c7de-48d4-8697-e06c1567fc26)
+
+</details>
+
+<details>
+  <summary>질문 2</summary>
+
+  ![질문 2](https://github.com/user-attachments/assets/c1ae70a9-ec9b-4c10-a450-9df17ec21d89)
+
+</details>
+
+<details>
+  <summary>로그인 & 회원가입</summary>
+
+  ![로그인 & 회원가입](https://github.com/user-attachments/assets/69a93975-1573-4252-abfc-2bd85618df8b)
+
+</details>
+
+<details>
+  <summary>나만의 레시피 게시판</summary>
+
+  ![나만의 레시피 게시판](https://github.com/user-attachments/assets/975fbc26-b7ac-4966-88f1-ad53c1e6a2bc)
+
+</details>
+
+<details>
+  <summary>문의 게시판</summary>
+
+  ![문의 게시판](https://github.com/user-attachments/assets/e9833b51-96fd-406f-b7ed-c45a425a4cfd)
+
+</details>
+
+<details>
+  <summary>마이페이지</summary>
+
+  ![마이페이지](https://github.com/user-attachments/assets/1ea2a0a7-b6be-4d91-a133-2df95126e6e0)
+
+</details>
 
 ---
 <br>
