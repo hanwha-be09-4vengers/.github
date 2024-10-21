@@ -159,24 +159,24 @@
 <details>
   <summary>1.1 회원가입</summary>
   <br>
-  이메일 인증번호 발송
+  1.1.1 이메일 인증번호 발송
   <img src="https://github.com/user-attachments/assets/653e1470-af64-4eea-a326-fb0e5bc3c189" alt="">
   <br><br>
-  이메일 인증완료
+  1.1.2 이메일 인증완료
   <img src="https://github.com/user-attachments/assets/cbd99245-546d-4282-9c14-181b226ca58a" alt="">
   <br><br>
-  회원가입 완료
+  1.1.3 회원가입 완료
   <img src="https://github.com/user-attachments/assets/4d2ce3e3-f37e-4674-a15b-7b0268ba277a" alt="">
 </details>
 
 <details>
-  <summary>1.2 일반 로그인</summary>
-   
+   <summary>1.2 일반 로그인</summary>
+   <img src="https://github.com/user-attachments/assets/75915074-48ee-4e4c-b1d3-9653d42a19aa" alt="">
 </details>
 
 <details>
   <summary>1.3 관리자 로그인</summary>
-   
+   <img src="https://github.com/user-attachments/assets/d5b6551b-65f5-4b3c-81c1-fcbc53239f79" alt="">
 </details>
 
 <details>
