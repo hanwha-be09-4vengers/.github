@@ -162,17 +162,22 @@
 </details>
 
 <details>
-  <summary>1.1 회원가입</summary>
+  <summary>1.2 일반 로그인</summary>
    
 </details>
 
 <details>
-  <summary>1.1 회원가입</summary>
+  <summary>1.3 관리자 로그인</summary>
    
 </details>
 
 <details>
-  <summary>1.1 회원가입</summary>
+  <summary>1.4 카카오 로그인</summary>
+   
+</details>
+
+<details>
+  <summary>1.5 네이버 로그인</summary>
    
 </details>
 
