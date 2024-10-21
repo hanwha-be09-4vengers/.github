@@ -156,6 +156,9 @@
 <br>
 
 # ✔️ 결과 화면
+
+<h2>1. 회원</h2> 
+
 <details>
   <summary>1.1 회원가입</summary>
   <br>
@@ -181,13 +184,51 @@
 
 <details>
   <summary>1.4 카카오 로그인</summary>
-   
+   <img src="https://github.com/user-attachments/assets/10681f95-3116-45d0-ae4b-1666a07d3c0c" alt="">
 </details>
 
 <details>
   <summary>1.5 네이버 로그인</summary>
    
 </details>
+
+<details>
+  <summary>1.6 로그아웃</summary>
+   <img src="https://github.com/user-attachments/assets/400373f2-7f70-4556-81c9-bfa2bbb26c5b" alt="">
+</details>
+
+<h2>2. 요리 위키</h2> 
+
+<details>
+  <summary>2.1 요리 위키</summary>
+  <img src="https://github.com/user-attachments/assets/0faaaa1c-699f-4b97-979a-2b68e6adbc31" alt="">
+</details>
+
+<details>
+   <summary>2.2 요리 위키 검색</summary>
+   <img src="https://github.com/user-attachments/assets/86658262-dd3e-41f9-a221-edfc49fa92eb" alt="">
+</details>
+
+<details>
+  <summary>2.3 요리 위키 페이지네이션</summary>
+   <img src="https://github.com/user-attachments/assets/c47d6bec-51c3-4576-8689-451871236c33" alt="">
+</details>
+
+<details>
+  <summary>1.4 카카오 로그인</summary>
+   <img src="https://github.com/user-attachments/assets/10681f95-3116-45d0-ae4b-1666a07d3c0c" alt="">
+</details>
+
+<details>
+  <summary>1.5 네이버 로그인</summary>
+   
+</details>
+
+<details>
+  <summary>1.6 로그아웃</summary>
+   <img src="https://github.com/user-attachments/assets/400373f2-7f70-4556-81c9-bfa2bbb26c5b" alt="">
+</details>
+
 
 <br>
 
