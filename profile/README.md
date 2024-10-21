@@ -255,7 +255,7 @@
 
 <details>
   <summary>4.3 회원탈퇴</summary>
-   <img src="https://github.com/user-attachments/assets/7d8af233-fbd8-4652-bb7a-9c425f0a429b" alt="">
+  <img src="https://github.com/user-attachments/assets/ac3110c6-23ac-4115-acb5-64dfe070ea9" alt="">
 </details>
 
 <br>
