@@ -335,7 +335,7 @@ pipeline {
 
 <details>
   <summary>4.3 회원탈퇴</summary>
-  <img src="https://github.com/user-attachments/assets/ac3110c6-23ac-4115-acb5-64dfe070ea9" alt="">
+  <img src="https://github.com/user-attachments/assets/ac3110c6-23ac-4115-acb5-64dfe070ea92" alt="">
 </details>
 
 <h2>5. Q&A</h2> 
