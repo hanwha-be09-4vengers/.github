@@ -222,7 +222,6 @@ pipeline {
         }
     }
 }
-1
 
 <br>
 
@@ -230,7 +229,7 @@ pipeline {
 
 <h2>0. Jenkins CI/CD </h2>
   <details>
-    ![image](https://github.com/user-attachments/assets/42a66e5d-66a0-42e1-89d1-e9b048d548f5)
+      <img src="https://github.com/user-attachments/assets/ea5e2a4d-892f-4b01-90de-dff5091c5a82/>
   </details>
 <h2>1. 회원</h2> 
 
