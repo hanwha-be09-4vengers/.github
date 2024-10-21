@@ -309,12 +309,12 @@
 
 <details>
   <summary>6.1 SSE 연결</summary>
-  <img src="https://github.com/user-attachments/assets/e9705750-4cdc-4f56-9694-3040b787affe" alt="">
+  <img src="https://github.com/user-attachments/assets/68e251b7-9c57-4ce6-9cd4-84a3a1b65bc6" alt="">
 </details>
 
 <details>
   <summary>6.2 알림 확인</summary>
-  <img src="https://github.com/user-attachments/assets/a5c0894b-866c-4459-9558-6bb0ccde53f5" alt="">
+  <img src="https://github.com/user-attachments/assets/7b78add8-3fd7-4eca-84be-4757c3c27620" alt="">
 </details>
 
 <br>
