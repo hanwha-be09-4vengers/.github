@@ -4,7 +4,7 @@
 
 
 [<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://www.notion.so/4vengers-1133c20995cb8086b316f83013f75823)
-| <img src="https://github.com/user-attachments/assets/5a0d8aa8-0a1f-41f3-a93f-b2985c1765d6" height="100"/> | <img src="https://github.com/user-attachments/assets/79d48cf7-bdd4-4ec1-831c-bb57d5d9f57d" height="100"/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height="100"/> | <img src="https://github.com/user-attachments/assets/a17e5ef4-f7be-48fb-ae41-5cd3b27f5918" height="100"/> | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/8381e8af-6a25-4f00-8a5e-454323d1f340" height="100"/> |
+| <img src="https://github.com/user-attachments/assets/5a0d8aa8-0a1f-41f3-a93f-b2985c1765d6" height="100"/> | <img src="https://github.com/user-attachments/assets/79d48cf7-bdd4-4ec1-831c-bb57d5d9f57d" height="100"/> | <img src="https://github.com/user-attachments/assets/c1335291-e967-4f99-be81-e577d2603f36" height="100"/> | <img src="https://github.com/user-attachments/assets/a17e5ef4-f7be-48fb-ae41-5cd3b27f5918" height="100"/> | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/8381e8af-6a25-4f00-8a5e-454323d1f340" height="100"/> |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 박경희 | 윤채연 | 전기범 | 장민근 | 조창욱 | 최해관 | 
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/iwillbfine) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/yncayn) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/caolian2003) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) |
@@ -448,9 +448,9 @@ pipeline {
 
 | Team Member | 최해관 동료평가                                                                                                                                                                                                                       |
 | :---------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   박경희    | |
-|   윤채연    | |
-|   전기범    | |
-|   장민근    | |
-|   조창욱    | |
+|   박경희    | 묵묵히 맡은 바 일을 책임있게 끝까지 완수하시는 모습을 보고 배우는 점이 많았습니다. 또 회의 시에 아무도 생각 못했던 허점을 찾아내주셔서 프로젝트 방향을 올바르게 수정할 수 있었습니다. 저도 그 모습 본받아서 최종 프로젝트 때까지 함께 열심히 달려가보겠습니다! |
+|   윤채연    | 전공을 잘 살리셔서 우리 팀의 전체적인 디자인의 틀을 잡아주시고 덕분에 개발이 애자일하게 잘 진행된 것 같습니다. 항상 제일 까다로운 부분이 ui/ux적 측면에서 쉽게 다가갈 수 있는 디자인을 고려하는 것이었는데 피그마를 통해 뚝딱뚝딱 엄청난 디자인이 만들어지는 것을 보고 감탄이 나왔습니다. 저도 본받아서 사용자 친화적인 디자인을 만들기 위해 노력하겠습니다! |
+|   전기범    | 이번 프로젝트의 제일 까다로운 부분이었던 sse 를 구현하시느라 시작부터 백엔드와 프론트엔드 작업을 동시에 소화하시면서 NoSQL 연동까지 진행하느라 많이 힘드셨을 것 같습니다. 그럼에도 항상 믿음직하게 묵묵히 개발하는 모습과 그 개발을 위해 새로운 공부를 진행하는 모습이 감명 깊었습니다. 저도 공부 열심히 해서 새로운 기술에 겁먹지 않는 사람이 되겠습니다. |
+|   장민근    | 이번 프로젝트의 제일 까다로운 부분이었던 sse 를 구현하시느라 시작부터 백엔드와 프론트엔드 작업을 동시에 소화하시면서 NoSQL 연동까지 진행하느라 많이 힘드셨을 것 같습니다. 그럼에도 항상 믿음직하게 묵묵히 개발하는 모습과 그 개발을 위해 새로운 공부를 진행하는 모습이 감명 깊었습니다. 저도 공부 열심히 해서 새로운 기술에 겁먹지 않는 사람이 되겠습니다. |
+|   조창욱    | 제가 개발 도중 모르는 것이 생길 때마다 질문을 많이 했는데도 웃으며 즐겁게 받아주셔서 감사합니다. 워낙 개발 과정 전반에 대한 지식이 많으신 것도 있지만 그에 걸맞는 설명 능력이 뛰어나셔서 쉽게 이해할 수 있었습니다. 회원이라는 큰 도메인을 맡아 본인도 많이 바쁘셨을텐데도 어려움을 겪고 있는 팀원이 있으면 몸소 나서 해결해주시고 모르는 부분을 확실히 알려주셔서 감사합니다. 저도 열심히 공부해서 누군가에게 알려줄 수 있는 사람이 되겠습니다. 정말 고생 많으셨습니다! |
 
