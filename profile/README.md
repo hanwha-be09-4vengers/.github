@@ -241,6 +241,25 @@
    <img src="https://github.com/user-attachments/assets/5a2f5215-a177-4b86-ae16-d10c01d9ae62" alt="">
 </details>
 
+<h2>4. 마이페이지</h2> 
+
+<details>
+  <summary>4.1 프로필 수정</summary>
+  <img src="https://github.com/user-attachments/assets/6076b590-f3eb-4584-a7b2-cf14edd673b2" alt="">
+</details>
+
+<details>
+   <summary>4.2 비밀번호 변경</summary>
+   <img src="https://github.com/user-attachments/assets/a10ab92e-2b0c-4642-86a3-6427c32189fa" alt="">
+</details>
+
+<details>
+  <summary>4.3 회원탈퇴</summary>
+   <img src="https://github.com/user-attachments/assets/7d8af233-fbd8-4652-bb7a-9c425f0a429b" alt="">
+</details>
+
+<br>
+
 <br>
 
 # ✔️ 동료 평가
