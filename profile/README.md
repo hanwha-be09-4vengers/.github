@@ -234,7 +234,7 @@ pipeline {
 
 <h2>0. Jenkins CI/CD </h2>
   <details>
-      <img src="https://github.com/user-attachments/assets/ea5e2a4d-892f-4b01-90de-dff5091c5a82/>
+      <img src="https://github.com/user-attachments/assets/ea5e2a4d-892f-4b01-90de-dff5091c5a82" alt="">
   </details>
           
 <h2>1. 회원</h2> 
