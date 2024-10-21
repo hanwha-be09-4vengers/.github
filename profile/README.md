@@ -232,168 +232,168 @@ pipeline {
 
 # ✔️ 결과 화면
 
-<h2>0. Jenkins CI/CD </h2>
+<h2>1. Jenkins CI/CD </h2>
   <details>
       <img src="https://github.com/user-attachments/assets/ea5e2a4d-892f-4b01-90de-dff5091c5a82" alt="">
   </details>
           
-<h2>1. 회원</h2> 
+<h2>2. 회원</h2> 
 
 <details>
-  <summary>1.1 회원가입</summary>
+  <summary>2.1 회원가입</summary>
   <br>
-  1.1.1 이메일 인증번호 발송
+  2.1.1 이메일 인증번호 발송
   <img src="https://github.com/user-attachments/assets/653e1470-af64-4eea-a326-fb0e5bc3c189" alt="">
   <br><br>
-  1.1.2 이메일 인증완료
+  2.1.2 이메일 인증완료
   <img src="https://github.com/user-attachments/assets/cbd99245-546d-4282-9c14-181b226ca58a" alt="">
   <br><br>
-  1.1.3 회원가입 완료
+  2.1.3 회원가입 완료
   <img src="https://github.com/user-attachments/assets/4d2ce3e3-f37e-4674-a15b-7b0268ba277a" alt="">
 </details>
 
 <details>
-   <summary>1.2 일반 로그인</summary>
+   <summary>2.2 일반 로그인</summary>
    <img src="https://github.com/user-attachments/assets/75915074-48ee-4e4c-b1d3-9653d42a19aa" alt="">
 </details>
 
 <details>
-  <summary>1.3 관리자 로그인</summary>
+  <summary>2.3 관리자 로그인</summary>
    <img src="https://github.com/user-attachments/assets/d5b6551b-65f5-4b3c-81c1-fcbc53239f79" alt="">
 </details>
 
 <details>
-  <summary>1.4 카카오 로그인</summary>
+  <summary>2.4 카카오 로그인</summary>
    <img src="https://github.com/user-attachments/assets/10681f95-3116-45d0-ae4b-1666a07d3c0c" alt="">
 </details>
 
 <details>
-  <summary>1.5 네이버 로그인</summary>
+  <summary>2.5 네이버 로그인</summary>
   <img src="https://github.com/user-attachments/assets/6f1b0833-7ac4-4007-a81b-8fafc7b0111d" alt="">
 </details>
 
 <details>
-  <summary>1.6 로그아웃</summary>
+  <summary>2.6 로그아웃</summary>
    <img src="https://github.com/user-attachments/assets/400373f2-7f70-4556-81c9-bfa2bbb26c5b" alt="">
 </details>
 
-<h2>2. 요리 위키</h2> 
+<h2>3. 요리 위키</h2> 
 
 <details>
-  <summary>2.1 요리 위키</summary>
+  <summary>3.1 요리 위키</summary>
   <img src="https://github.com/user-attachments/assets/0faaaa1c-699f-4b97-979a-2b68e6adbc31" alt="">
 </details>
 
 <details>
-   <summary>2.2 요리 위키 검색</summary>
+   <summary>3.2 요리 위키 검색</summary>
    <img src="https://github.com/user-attachments/assets/86658262-dd3e-41f9-a221-edfc49fa92eb" alt="">
 </details>
 
 <details>
-  <summary>2.3 요리 위키 페이지네이션</summary>
+  <summary>3.3 요리 위키 페이지네이션</summary>
    <img src="https://github.com/user-attachments/assets/c47d6bec-51c3-4576-8689-451871236c33" alt="">
 </details>
 
 <details>
-  <summary>2.4 요리 위키 상세정보</summary>
+  <summary>3.4 요리 위키 상세정보</summary>
    <img src="https://github.com/user-attachments/assets/41fc845d-9a42-4ed0-8dbd-d169c953ab27" alt="">
 </details>
 
-<h2>3. 요리보고의 추천</h2> 
+<h2>4. 요리보고의 추천</h2> 
 
 <details>
-  <summary>3.1 요리 추천</summary>
+  <summary>4.1 요리 추천</summary>
   <img src="https://github.com/user-attachments/assets/387f03ec-1404-465d-af07-12b90073b25b" alt="">
 </details>
 
 <details>
-   <summary>3.2 요리 이미지 생성 비동기 처리</summary>
+   <summary>4.2 요리 이미지 생성 비동기 처리</summary>
    <img src="https://github.com/user-attachments/assets/dd9bccdd-0a14-4220-9e1e-856476d6edb7" alt="">
 </details>
 
 <details>
-  <summary>3.3 요리 추천에 만족한 경우</summary>
+  <summary>4.3 요리 추천에 만족한 경우</summary>
    <img src="https://github.com/user-attachments/assets/7d8af233-fbd8-4652-bb7a-9c425f0a429b" alt="">
 </details>
 
 <details>
-  <summary>3.4 요리 추천에 불만족한 경우</summary>
+  <summary>4.4 요리 추천에 불만족한 경우</summary>
    <img src="https://github.com/user-attachments/assets/5a2f5215-a177-4b86-ae16-d10c01d9ae62" alt="">
 </details>
 
-<h2>4. 마이페이지</h2> 
+<h2>5. 마이페이지</h2> 
 
 <details>
-  <summary>4.1 프로필 수정</summary>
+  <summary>5.1 프로필 수정</summary>
   <img src="https://github.com/user-attachments/assets/6076b590-f3eb-4584-a7b2-cf14edd673b2" alt="">
 </details>
 
 <details>
-   <summary>4.2 비밀번호 변경</summary>
+   <summary>5.2 비밀번호 변경</summary>
    <img src="https://github.com/user-attachments/assets/a10ab92e-2b0c-4642-86a3-6427c32189fa" alt="">
 </details>
 
 <details>
-  <summary>4.3 회원탈퇴</summary>
+  <summary>5.3 회원탈퇴</summary>
   <img src="https://github.com/user-attachments/assets/ac3110c6-23ac-4115-acb5-64dfe070ea92" alt="">
 </details>
 
-<h2>5. Q&A</h2> 
+<h2>6. Q&A</h2> 
 
 <details>
-  <summary>5.1 Q&A</summary>
+  <summary>6.1 Q&A</summary>
   <img src="https://github.com/user-attachments/assets/6bdb4bb1-69d5-479a-bb2f-acacdab2d55f" alt="">
 </details>
 
 <details>
-   <summary>5.2 문의 작성</summary>
+   <summary>6.2 문의 작성</summary>
    <img src="https://github.com/user-attachments/assets/33afefeb-344f-44fb-a285-5857be218a23" alt="">
 </details>
 
 <details>
-  <summary>5.3 문의 수정</summary>
+  <summary>6.3 문의 수정</summary>
   <img src="https://github.com/user-attachments/assets/329bb93f-98c6-4db4-bc33-ec079557b08e" alt="">
 </details>
 
 <details>
-  <summary>5.4 문의 삭제</summary>
+  <summary>6.4 문의 삭제</summary>
   <img src="https://github.com/user-attachments/assets/4a082156-8c8b-44f1-b0bf-582cd3f98c4a" alt="">
 </details>
 
 <details>
-  <summary>5.5 문의 검색</summary>
+  <summary>6.5 문의 검색</summary>
   <img src="https://github.com/user-attachments/assets/8df65b7a-12c3-48ff-9eef-1239ae636171" alt="">
 </details>
 
 <details>
-  <summary>5.6 문의 조회</summary>
+  <summary>6.6 문의 조회</summary>
   <br>
-  5.6.1 비밀글일 때 작성자이거나 관리자일 경우 or 비밀글이 아닐 경우
+  6.6.1 비밀글일 때 작성자이거나 관리자일 경우 or 비밀글이 아닐 경우
   <img src="https://github.com/user-attachments/assets/b03e68cc-8eeb-4b1f-bb28-a5161f17bf01" alt="">
   <br><br>
-  5.6.2 비밀글일 때 작성자나 관리자가 아닐 경우
+  6.6.2 비밀글일 때 작성자나 관리자가 아닐 경우
   <img src="https://github.com/user-attachments/assets/0b944dca-f6bf-40ce-830d-e04b2d7a33a7" alt="">
 </details>
 
 <details>
-  <summary>5.7 관리자 답변</summary>
+  <summary>6.7 관리자 답변</summary>
   <br>
-  5.7.1 관리자 답변
+  6.7.1 관리자 답변
   <img src="https://github.com/user-attachments/assets/c219de34-526a-47da-9afd-c3846f9168b9" alt="">
   <br><br>
-  5.7.2 답변완료 처리
+  6.7.2 답변완료 처리
   <img src="https://github.com/user-attachments/assets/d0d8a4e2-7b8a-4a4d-8824-e49f3745d777" alt="">
 </details>
 
-<h2>6. 알림</h2> 
+<h2>7. 알림</h2> 
 
 <details>
-  <summary>6.1 SSE 연결</summary>
+  <summary>7.1 SSE 연결</summary>
   <img src="https://github.com/user-attachments/assets/68e251b7-9c57-4ce6-9cd4-84a3a1b65bc6" alt="">
 </details>
 
 <details>
-  <summary>6.2 알림 확인</summary>
+  <summary>7.2 알림 확인</summary>
   <img src="https://github.com/user-attachments/assets/7b78add8-3fd7-4eca-84be-4757c3c27620" alt="">
 </details>
 
@@ -414,11 +414,11 @@ pipeline {
 
 | Team Member | 윤채연님의 동료평가                                                                                                                                                                                                                       |
 | :---------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   박경희    |  |
-|   장민근    |  |
-|   전기범    |  |
-|   조창욱    |  |
-|   최해관    |  |
+|   박경희    | 문의 게시판 기능을 담당해주셨고 백과 프론트 모두 다 잘 구현해주셨습니다. 질문 사항들을 바로바로 물어봐주셔서 개발 서비스에 대해 더 깊이 이해할 수 있었습니다.  |
+|   장민근    | SSE을 이용한 알림 기능과 레시피 좋아요 기능을 잘 구현해주셨습니다. 쉽지 않은 부분이었음에도 새벽까지 에러를 해결하시려는 모습이 인상깊었습니다. 제가 서비스 아키텍처에 대한 이해가 살짝 부족했는데 잘 설명해주셔서 덕분에 잘 이해할 수 있었습니다. |
+|   전기범    | 개발 속도가 엄청 빠르셔서 놀랐습니다. 제가 많이 부족했는데 옆에서 잘 설명해주셔서 코드를 어떻게 봐야하는지 잘 이해할 수 있었고, 덕분에 프론트에 대해 많이 이해하고 갑니다. 마지막까지 제가 막힌 부분 도와주셔서 감사합니다 |
+|   조창욱    | 팀장 역할을 훌륭하게 해주셨습니다. 모든 팀원들의 개발 상황을 계속 점검해주셔서 현재 개발 상황에 대해 잘 이해할 수 있었습니다. 저 뿐만 아니라 다른 팀원들의 코드도 같이 점검해주시고 새벽까지 팀원들의 에러를 해결해주시려고 많이 노력하셨습니다. 지저분하게 작성한 코드를 금방 이해하시고 문제점을 바로 지적해주셔서 빠른 파드백이 가능했습니다. 많이 부족한데 많이 알려주시고 도와주셔서 감사합니다.  |
+|   최해관    | 게시글 등록 전반적인 기능을 잘 구현해주셨습니다. 제가 중간에 막혀서 넘겨 받으신 코드도 금방 이해하시고 수정해주셨습나다.  코드를 낄끔하게 잘 작성해주셔서 코드를 수월하게 추가할수 있었습니다.제가 이해하지 못한 부분에 대해서 천천히 다시 알려주셔서 감사합니다. |
 
 | Team Member | 전기범님의 동료평가                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :---------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
