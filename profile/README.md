@@ -300,11 +300,6 @@
   <img src="https://github.com/user-attachments/assets/d0d8a4e2-7b8a-4a4d-8824-e49f3745d777" alt="">
 </details>
 
-<details>
-  <summary>5.8 문의 조회</summary>
-  <img src="https://github.com/user-attachments/assets/b03e68cc-8eeb-4b1f-bb28-a5161f17bf01" alt="">
-</details>
-
 <br>
 
 <br>
