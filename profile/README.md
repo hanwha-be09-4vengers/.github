@@ -189,7 +189,7 @@
 
 <details>
   <summary>1.5 네이버 로그인</summary>
-   
+  <img src="https://github.com/user-attachments/assets/6f1b0833-7ac4-4007-a81b-8fafc7b0111d" alt="">
 </details>
 
 <details>
