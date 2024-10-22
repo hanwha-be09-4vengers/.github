@@ -353,7 +353,7 @@ pipeline {
 
 <details>
    <summary>4.2 요리 이미지 생성 비동기 처리</summary>
-   <img src="https://github.com/user-attachments/assets/dd9bccdd-0a14-4220-9e1e-856476d6edb7" alt="">
+   <img src="https://github.com/user-attachments/assets/223c8e93-df85-4d9e-ac72-ebf54aed35e5" alt="">
 </details>
 
 <details>
