@@ -443,9 +443,9 @@ pipeline {
 </details>
 
 <details>
-  <summary>7.6 문의 조회</summary>
+  <summary>7.6 회원 재문의</summary>
   <br>
-  7.6.1 비밀글일 때 작성자이거나 관리자일 경우 or 비밀글이 아닐 경우
+  7.6.1 문의 작성자이거나 관리자일 경우
   <img src="https://github.com/user-attachments/assets/b03e68cc-8eeb-4b1f-bb28-a5161f17bf01" alt="">
   <br><br>
   7.6.2 비밀글일 때 작성자나 관리자가 아닐 경우
