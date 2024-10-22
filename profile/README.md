@@ -357,12 +357,17 @@ pipeline {
 </details>
 
 <details>
-  <summary>4.3 요리 추천에 만족한 경우</summary>
+   <summary>4.3 요리 레시피 생성 비동기 처리</summary>
+   <img src="https://github.com/user-attachments/assets/346b8687-0a67-41c9-a7a1-ca28b38945fe" alt="">
+</details>
+
+<details>
+  <summary>4.4 요리 추천에 만족한 경우</summary>
    <img src="https://github.com/user-attachments/assets/7d8af233-fbd8-4652-bb7a-9c425f0a429b" alt="">
 </details>
 
 <details>
-  <summary>4.4 요리 추천에 불만족한 경우</summary>
+  <summary>4.5 요리 추천에 불만족한 경우</summary>
    <img src="https://github.com/user-attachments/assets/5a2f5215-a177-4b86-ae16-d10c01d9ae62" alt="">
 </details>
 
