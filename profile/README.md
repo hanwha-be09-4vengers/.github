@@ -168,15 +168,15 @@
 
 <details>
   <summary>나만의 레시피 게시판</summary>
+   
+<img width="1231" alt="스크린샷 2024-10-22 오후 4 17 07" src="https://github.com/user-attachments/assets/f8bbc4c5-5a36-403b-89eb-12a114782c9a">
 
-  ![나만의 레시피 게시판](https://github.com/user-attachments/assets/975fbc26-b7ac-4966-88f1-ad53c1e6a2bc)
 
 </details>
 
 <details>
   <summary>문의 게시판</summary>
-
-  ![문의 게시판](https://github.com/user-attachments/assets/e9833b51-96fd-406f-b7ed-c45a425a4cfd)
+<img width="1055" alt="스크린샷 2024-10-22 오후 4 18 16" src="https://github.com/user-attachments/assets/f878cff6-3539-4ff2-bb3e-e76c3db2ec15">
 
 </details>
 
