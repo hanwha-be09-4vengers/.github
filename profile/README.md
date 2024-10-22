@@ -348,7 +348,7 @@ pipeline {
 
 <details>
   <summary>4.1 요리 추천</summary>
-  <img src="https://github.com/user-attachments/assets/387f03ec-1404-465d-af07-12b90073b25b" alt="">
+  <img src="https://github.com/user-attachments/assets/0d058a6f-0854-4bda-abbb-c01b40eeda02" alt="">
 </details>
 
 <details>
