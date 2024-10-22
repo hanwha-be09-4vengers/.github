@@ -65,9 +65,9 @@
 
 ### 5. DevOps <a id="5-devops"></a>
 
-| Docker                                                                                    | Jenkins                                                                                            | Kubernetes                                                                                    |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |  ------------------------------------------------------------------------------------------ |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white)       | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)                     |  ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)       |
+| Docker                                                                                    | Jenkins                                                                                            |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white)       | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)                     |
 
 ### 6. Tool <a id="6-tool"></a>
 
@@ -142,7 +142,7 @@
 ---
 
 # ✔️ 시스템 아키텍쳐 <a id="시스템-아키텍쳐"> 
-![image](https://github.com/user-attachments/assets/0fae1883-04a2-4243-bdba-f129682f936d)
+![image](https://github.com/user-attachments/assets/2446ba13-add2-46ba-9ee5-d8c15ad0cfff)
 
 ---
 
