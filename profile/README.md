@@ -462,7 +462,7 @@ pipeline {
 </details>
 
 <details>
-  <summary>6.3 회원탈퇴</summary>
+  <summary>6.3 회원탈퇴 및 재활성화</summary>
   <img src="https://github.com/user-attachments/assets/ac3110c6-23ac-4115-acb5-64dfe070ea92" alt="">
 </details>
 
