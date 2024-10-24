@@ -86,7 +86,8 @@
 
 ### 깃 플로우(Git-flow)
 
-![image](https://github.com/user-attachments/assets/ff9fe80b-c684-496c-88fb-b2d0378adc78)
+<img src="https://github.com/user-attachments/assets/ff9fe80b-c684-496c-88fb-b2d0378adc78" heigh="200" />
+
 
 **Main**: 배포 가능한 안정적인 코드가 저장되는 브랜치로, 프로덕션 환경에 릴리즈될 코드는 이 브랜치에 머지됩니다.
 
