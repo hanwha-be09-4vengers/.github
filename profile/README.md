@@ -319,6 +319,7 @@ pipeline {
 
 <h2>1. Jenkins CI/CD </h2>
   <details>
+      <summary>Yoribogo CI/CD</summary>
       <img src="https://github.com/user-attachments/assets/ea5e2a4d-892f-4b01-90de-dff5091c5a82" alt="">
   </details>
           
